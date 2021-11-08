@@ -1,7 +1,8 @@
 # Entry 1
-##### X/X/XX
+##### 11/8/21
+The tool I decided to use is GoogleAppScripts. The reason why I chose this tol 
 
-Text
+
 
 [Next](entry02.md)
 
