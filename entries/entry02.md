@@ -40,7 +40,41 @@ var app = SpreadsheetApp;
 ```
 To see the output go to this link: https://docs.google.com/spreadsheets/d/1akjubMZKfPTeyXBdRqjHtrUmeRwyi7ttIkpc4odkuRo/edit#gid=146777522 <br>
 
-   
+Then for the second video called: For Loops, Looping Through Cells, Variables, Comments, I basically just use what I learned in the first video and my knowledge of for loops to change the specified cells; the code is extremely long so here is the link: https://script.google.com/home/projects/1VdrMXzPno8Y-u24PpYAkgUADPLX4VEsboUmJ2widjbZbVvqfQh2n8RxN/edit. <br>
+
+Here is the link for the output: https://docs.google.com/spreadsheets/d/1lzq-ldLP3cMjImcCt5Dni0rqGhh79PwJPJkIyfy16oo/edit#gid=0.<br>
+
+Then after watching these two videos I found on a [website](https://developers.google.com/apps-script/samples/automations/send-emails) on how to send emails directly on Google Sheets, so I tried it out and it worked!
+```js
+function sendEmails() {
+  var sheet = SpreadsheetApp.getActiveSheet();
+  var startRow = 2; // First row of data to process
+  var numRows = 3; // Number of rows to process
+  // Fetch the range of cells A2:B4
+  var dataRange = sheet.getRange(startRow, 1, numRows, 2);
+  // Fetch values for each row in the Range.
+  var data = dataRange.getValues();
+  for (var i in data) {
+    var row = data[i];
+    var emailAddress = row[0]; // First column
+    var message = row[1]; // Second column
+    var subject = 'Sending emails from a Spreadsheet';
+    MailApp.sendEmail(emailAddress, subject, message);
+  }
+}
+```
+What's written on Google Sheets itself: https://docs.google.com/spreadsheets/d/1hTJEIfW_F26kz_vmxQpEw6x5mrY1GEsPKOxs9v8u38E/edit#gid=0
+But then I figured that there were some problems such as you can't write the proper syntax of an email with the start, message and closing, so to fix that issue I'm thinking of letting the users copy and paste a template into a single a cell and then replace it with what they need to write: <br>
+Dear Mrs. <br>
+
+I need help with the homework. <br>
+
+From, student <br>
+I found another problem which was that even if there's no message, it'll still send an email as long as long as there's a valid email. So to fix that I would need to dig and learn more, luckily for me there's a video in the first playlist about sending an email which I will view in the future. So this is what I've tried so far.<br>
+
+The Engineering Design process I'm at are steps 3 and 4, brainstorm possible solutions and plan the most promising solution. right now I'm trying out things I've learned and thinking of ways I can use them in a homework planner. For example the sending emails directly from Google Sheets is helpful for users that have questions for their teachers about their homework. Me and my partner are also thinking of creating templates using what I learned in the two videos and adding buttons to send one email at a time instead of all at once, especially since emails can still be send even if there's no message. We still have many ideas for our Homework Planner and would need to learn more. The skills I have to use is How to Learn and Organization. I need to know how to learn because even though there are videos explaning different concepts, I have to be hands on and try tinkering and changing small details. I also have to pick the best resources that work for me (I changed from reading how to use GoogleAppScripts to watching videos about it). I also have to be organized by writing down what I did on a separate document which is useful for me to look over and review old concepts. I also have different Google Sheets for each video so I won't get confused on where to look for a specific concept, they are also named the video names so I would know which is which. <br>
+
+Now during the break I would continue learning using the videos, I would like to watch through 2-3 more videos and combine all the concepts I learned into a single Google Sheet. 
 
 
 
