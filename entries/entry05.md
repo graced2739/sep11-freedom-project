@@ -92,7 +92,11 @@ function clearContent() {
 ```
 My partner added on to what I wrote by adding lines 80-91. This is basically how I worked to finish my MVP project. I'm sure my partner has more to say on our MVP project as she worked on separate things.
 
-###
+### Engineering Design Process
+Now I'm at Steps 6 and 7 of the Engineering Design Process. These steps are test and evaluate the prototype and improve as needed. Right now, me and my partner have finished testing and evaluating because before we turned out MVP plan in, we made sure that everything works and that using of homework planner is at easy as possible. This was why we added notes on how to use the different components of our Homework Planner. Now we needed to improve or go beyond our MVP plan. One idea my partner has is to tweak the 'Delete Everything' button where it'll only delete the background but leave the words the user wrote. She also had an idea that for the google sheet titled 'custom', the table can be different colors instead of just one. And I on the otherhand would like to add more templates to our project.
+
+### Skills
+The two skills I used are Time Management and Attention to Details. I need time management skills because even if the teacher gave us plenty of time for our project, I could've easily just waited until break to do everything, but I didn't. I took one step one at a time to complete the project with my partner and also made sure that she was on time with what she was responsible with. That way we were able to complete and check if everything works before the deadline. I also used the skill attention to details because it's very hard to know where our code has a bug, so we'll have to read each error message carefully, decipher them, then fix the code. Sometimes the code doesn't need fixing like the message that pops up for the Google calendar sheet when a user presses 'Create Event', so I'll need to keep that in mind and tell the user so they wouldn't panic and think that the code needs fixing when it doesn't. 
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
