@@ -2,7 +2,7 @@
 ##### 4/25/22
 
 ### Content
-As said before in blog 4, I've already finished learning my tool. Now I needed to finalize and complete my MVP plan. On my MVP plan, me and my partner planned to have a google sheet that's able to send emails to teachers directly from Google Sheet. We also wanted another google sheet that's able to add events to Google Calendar directly from google sheets. Here is how it looked like at first for the Gmail sheet, when I was still learning the tool: https://docs.google.com/spreadsheets/d/1OU3k-T-W0HtdFb7hOoku4eyfY4pqkcBAwXrfdkyoi6k/edit?usp=sharing. <br>
+As I said before in blog 4, I've already finished learning my tool. Now I needed to finalize and complete my MVP plan. On my MVP plan, me and my partner planned to have a google sheet that's able to send emails to teachers directly from Google Sheet. We also wanted another google sheet that's able to add events to Google Calendar directly from google sheets. Here is how it looks like at first for the Gmail sheet, when I was still learning the tool: https://docs.google.com/spreadsheets/d/1OU3k-T-W0HtdFb7hOoku4eyfY4pqkcBAwXrfdkyoi6k/edit?usp=sharing. <br>
 Here is the code for it:
 ```js
 function myFunction() {
@@ -21,7 +21,7 @@ function myFunction() {
   }
 }
 ```
-Here is how it liked like at first for the Google Calendar Sheet: https://docs.google.com/spreadsheets/d/1k5NqLwTSRWUly2Krm7KSbbGLVKKpTCD3Fs_H5Z8e49g/edit?usp=sharing.
+Here is how it looked like at first for the Google Calendar Sheet: https://docs.google.com/spreadsheets/d/1k5NqLwTSRWUly2Krm7KSbbGLVKKpTCD3Fs_H5Z8e49g/edit?usp=sharing.
 Here is the code:
 ```js
 function addEvents(){ //imports events from Google Sheets to Google Calendar
@@ -35,10 +35,10 @@ function addEvents(){ //imports events from Google Sheets to Google Calendar
   }
 }
 ```
-As you can see, the two Google Sheets started out very plain and there's no button for you to press that'll run the code for you, you'll actually have to go to extensions < app scripts, then run the code manually. <br>
+As you can see, the two Google Sheets started out very plain and there's no button for you to press that'll run the code for you, you had to go to extensions < app scripts, then run the code manually. <br>
 <br>
 Here are the sheets finalized: https://docs.google.com/spreadsheets/d/1u9x8sAYjfahALE2Sx4LzAFeuTPN2YBDw4mKHJAPBQpY/edit#gid=2042991207
-As you can see they are much more colorful thanks to my partner Kimberly, and has buttons that when you click would run the code for you. There's also an additional 'clear' button for the 'Send Email' sheet which allows the user to delete what they wrote when they made a mistake. Along with the new buttons and a addiotnal feature, we also added a note to the Google Sheets to tell the user how to use these tools properly. The code before and after are mostly the same though. <br>
+As you can see they are much more colorful thanks to my partner Kimberly, and has buttons that when you click on, would run the code for you. There's also an additional 'clear' button for the 'Send Email' sheet which allows the user to delete what they wrote when they made a mistake. Along with the new buttons and a additional feature, we also added a note to the Google Sheets to tell the user how to use these tools properly. The code before and after are mostly the same though. <br>
 Gmail code:
 ```js
 function sendEmail(){
@@ -93,10 +93,10 @@ function clearContent() {
 My partner added on to what I wrote by adding lines 80-91. This is basically how I worked to finish my MVP project. I'm sure my partner has more to say on our MVP project as she worked on separate things.
 
 ### Engineering Design Process
-Now I'm at Steps 6 and 7 of the Engineering Design Process. These steps are test and evaluate the prototype and improve as needed. Right now, me and my partner have finished testing and evaluating because before we turned out MVP plan in, we made sure that everything works and that using of homework planner is at easy as possible. This was why we added notes on how to use the different components of our Homework Planner. Now we needed to improve or go beyond our MVP plan. One idea my partner has is to tweak the 'Delete Everything' button where it'll only delete the background but leave the words the user wrote. She also had an idea that for the google sheet titled 'custom', the table can be different colors instead of just one. And I on the otherhand would like to add more templates to our project.
+Now I'm at Steps 6 and 7 of the Engineering Design Process. These steps are test and evaluate the prototype and improve as needed. Right now, me and my partner have finished testing and evaluating because before we turned out MVP plan in, we made sure that everything works and that the using of homework planner is as easy as possible. This was why we added notes on how to use the different components of our Homework Planner. Now we needed to improve or go beyond our MVP plan. One idea my partner has is to tweak the 'Delete Everything' button where it'll only delete the background but leave the words the user wrote. She also had an idea that for the google sheet titled 'custom', the table can be different colors instead of just one. And I on the otherhand would like to add more templates to our project.
 
 ### Skills
-The two skills I used are Time Management and Attention to Details. I need time management skills because even if the teacher gave us plenty of time for our project, I could've easily just waited until break to do everything, but I didn't. I took one step one at a time to complete the project with my partner and also made sure that she was on time with what she was responsible with. That way we were able to complete and check if everything works before the deadline. I also used the skill attention to details because it's very hard to know where our code has a bug, so we'll have to read each error message carefully, decipher them, then fix the code. Sometimes the code doesn't need fixing like the message that pops up for the Google calendar sheet when a user presses 'Create Event', so I'll need to keep that in mind and tell the user so they wouldn't panic and think that the code needs fixing when it doesn't. 
+The two skills I used are Time Management and Attention to Details. I need time management skills because even if the teacher gave us plenty of time for our project, I could've easily just waited until break to do everything, but I didn't. I took one step at a time to complete the project with my partner and also made sure that she was on time with what she was responsible with. That way we were able to complete and check if everything works before the deadline. I also used the skill attention to details because it's very hard to know where our code has a bug, so we'll have to read each error message carefully, decipher them, then fix the code. Sometimes the code doesn't need fixing like the message that pops up for the Google calendar sheet when a user presses 'Create Event', so I'll need to keep that in mind and tell the user so they wouldn't panic and think that the code needs fixing when it doesn't. 
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
