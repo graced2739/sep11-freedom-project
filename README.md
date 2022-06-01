@@ -14,7 +14,10 @@ For my project, I am making a Homework Planner in Google Sheets. This blog will 
 [Presentation](https://docs.google.com/presentation/d/1hLGl8Z0hOjg8w6AaDFOglUdFNf5rIFPHZLScfiWyItA/edit?usp=sharing)
 
 ## Implications
-X
+The creation of our Homework Planner has both positive and negative impacts on these three categories: Global, Social, and Economic.
+* Global:
+  *  when it comes to our environment our homework planner is definitely reusable and recyclable, due to the fact that it's used online and not on paper. Someone has probably bought a planner to keep track of all their dates, assignments, homework, etc. but may just use a few pages of it and never touch it again. This is a waste of paper, but for our homework planner, this problem will never occur because even if you use it for a few days and then abandon it, there will be no waste accumulated. 
+  * For education this is also beneficial due to the fact that you can easily keep track of your 
 
 ---
 
