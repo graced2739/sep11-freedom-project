@@ -1,17 +1,17 @@
 # SEP11 Freedom Project
-by X
+by Grace Dong
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about choosing a tool related to javascript and using that tool to create a project that's serves a purpose in our lives. The purpose of this blog is to walk through the tool I picked, the process of how I learned the tool and how we used that tool to make our product.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a Homework Planner in Google Sheets. This blog will walk through my process of independently studying GoogleAppScripts in order to make the Homework Planner.
 
 ## Links
 
-Product
+[Product](https://docs.google.com/spreadsheets/d/18vQUEJv8KX2F-5PNwYNSHKsa-rb5vBDA2RCcV4yWPBs/edit?usp=sharing)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1hLGl8Z0hOjg8w6AaDFOglUdFNf5rIFPHZLScfiWyItA/edit?usp=sharing)
 
 ## Implications
 X
