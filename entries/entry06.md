@@ -5,6 +5,9 @@ I finally finished all parts of my project. This includes the presentation to bo
 
 For our presentaion to the whole class, we did great! The only comment we got from the teacher was to make more eye contact. This is something I should improve on because the majority of the time I was looking at the screen. I think that after I explained a slide I should look around the room and not go directly to the next slide.  Throughout the presentation we were both loud and clear. We also explained how our code worked really thoroughly, our hook was interesting and our conclusion summed up everything perfectly. The only reason that we were able to do this was because me and my partner rehearsed on zoom and wrote speaker notes to make our thoughts organized and concise. And even though we weren't able to remember every single word of the speaker notes we were still able to explain our code efficiently as we already knew what to say. Here is the link to our presentation: https://docs.google.com/presentation/d/1hLGl8Z0hOjg8w6AaDFOglUdFNf5rIFPHZLScfiWyItA/edit?usp=sharing.
 
+### Engineering Design Process
+### Skills
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
