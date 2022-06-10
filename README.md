@@ -16,13 +16,15 @@ For my project, I am making a Homework Planner in Google Sheets. This blog will 
 ## Implications
 The creation of our Homework Planner has both positive and negative impacts on these categories: Global and Social.
 * Global:
-  *  when it comes to our environment our homework planner is definitely reusable and recyclable, due to the fact that it's used online and not on paper. Someone has probably bought a planner to keep track of all their dates, assignments, homework, etc. but may just use a few pages of it and never touch it again. This is a waste of paper, but for our homework planner, this problem will never occur because even if you use it for a few days and then abandon it, there will be no waste accumulated. 
+  *  When it comes to our environment our homework planner is definitely reusable and recyclable, due to the fact that it's used online and not on paper. Someone has probably bought a planner to keep track of all their dates, assignments, homework, etc. but may just use a few pages of it and never touch it again. This is a waste of paper, but for our homework planner, this problem will never occur because even if you use it for a few days and then abandon it, there will be no waste accumulated. 
   * For education this is also beneficial due to the fact that you can easily keep track of your assignments, send emails to your teacher and add reminders to your Google Calendar.
     *  The only downside to this is that you can actually keep spamming the send email button which will send a ton of emails to your teacher. This would be annoying and for that reason, people using our Homework Planner have to be responsible and respectful.
 * Social:
-  *  Allows the individual to keep track of their assignments and not feel overwhelmed. Also allows them to interact with the homework planner, making it fun to use. They are able to select from a variety of templates and if they ever learn the basics of GoogleAppScripts, they can even create their own unique templates.
-  *  Relationship: Allows the user to send emails to teachers if they have any questions or made up missing work, which allows the teacher to help out the student and change their grades.
-
+  * Allows the individual to keep track of their assignments and not feel overwhelmed. Also allows them to interact with the homework planner, making it fun to use. They are able to select from a variety of templates and if they ever learn the basics of GoogleAppScripts, they can even create their own unique templates.
+  * Relationship: Allows the user to send emails to teachers if they have any questions or made up missing work, which allows the teacher to help out the student and change their grades.
+* Jobs: 
+  * If the user isn't a student and still wants to use the planner, they can just use it to keep track of what they need to do in their job. They can use the planner to add events to their Google Calendar in bulk and not just one at a time. They can also use the gmail feature to email their supervisor or boss.
+    * Once again the downside to this is that they could accidentally spam the email button, which is annoying and could potentially anger their boss or supevisor. 
 ---
 
 * [Blog Entry 1](entries/entry01.md)
